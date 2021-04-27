@@ -6,7 +6,7 @@ Morse Translator to use in your projects simple and ease to use.
 
 ```JavaScript
 
-Enter Decode or Encode and Enter The Words You Want to Translate via Input
+enter Decode or Encode after that enter the Text you want to translate via Input
 
 
 
